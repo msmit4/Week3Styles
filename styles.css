@@ -1,0 +1,44 @@
+body{
+    background:#b0ed9c;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    background-color: #c4f5b4;
+    outline-style: groove;
+    outline-color: #88d26d;
+    outline-width: 10px;
+    border-color: #296c12;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color:darkblue;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    background-color: beige;
+}
+ul{
+    background-color: beige;
+}
+img{
+    outline-style: outset;
+    outline-color: #296c12;
+    outline-width: 7px;
+    
+}
+#cap{
+    font-weight: bold;
+}
+#purchase{
+    background-color: #c4f5b4;
+    outline-style: groove;
+    outline-color: #88d26d;
+    outline-width: 10px;
+    border-color: #296c12;
+    width: fit-content;
+}
+.fav_asp{
+    background-color: #e5f9df;
+}
